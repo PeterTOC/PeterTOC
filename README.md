@@ -5,8 +5,8 @@
 - 📫 How to reach me 
 email: peterboshe@gmail.com 
 linkedin: www.linkedin.com/in/peterboshe
-web page: https://petertoc.github.io/Peter_Portfolio/
-mobile: +255 769 405 758
+web page: https://petertoc.github.io/Peter_Portfolio_2/
+mobile: +255 688 372 127 / +255 769 405 758
 
 <!---
 PeterTOC/PeterTOC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
