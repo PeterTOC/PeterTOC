@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @PeterTOC
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning about machine learning using the R programming language
-- 💞️ I’m looking to collaborate on integrating machine learning models into IOT solutions
-- 📫 How to reach me 
+# 👋 Hi, I’m Peter Boshe
+I am a :computer: **Junior Analyst** and an :sparkles:**R**:sparkles: fanatic.
+
+## :black_joker: My Tricks of Trade include;
+- Descriptive Analysis
+- Data Cleaning
+- Data Wrangling
+- Data Viz
+
+## 🌱 I’m currently learning more about;
+- Statistical Inference
+- Regression Models
+- Practical Machine Learning
+
+
+## :telescope: Fields Explored;
+- Telematic/IOT Analytics
+- Business Data Analysis
+- Sports Analytics
+
+### 📫 Contact Details
 email: peterboshe@gmail.com 
 linkedin: www.linkedin.com/in/peterboshe
 web page: https://petertoc.github.io/Peter_Portfolio_2/
