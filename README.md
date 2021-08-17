@@ -1,13 +1,14 @@
 # 👋 Hi, I’m Peter Boshe
 I am a :computer: **Junior Analyst** and an :sparkles:**R**:sparkles: fanatic.
 
-## :black_joker: My Tricks of Trade include;
+## :black_joker: My Tools of Trade include;
 - Descriptive Analysis
 - Data Cleaning
 - Data Wrangling
 - Data Viz
+- Task Automation
 
-## 🌱 I’m currently learning more about;
+## 🌱 I’m currently learning more on;
 - Statistical Inference
 - Regression Models
 - Practical Machine Learning
