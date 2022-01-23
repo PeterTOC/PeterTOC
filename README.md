@@ -7,11 +7,17 @@ I am a :computer: **Junior Analyst** and an :sparkles:**R**:sparkles: fanatic.
 - Data Wrangling
 - Data Viz
 - Task Automation
+- Descriptive Analysis
+- Bash Scripting
+- R programming
+- Web Scraping
+- Regression models
+- Clustering analysis for segmentation
+- Supervised and Unsupervised Machine Learning
 
 ## 🌱 I’m currently learning more on;
 - Statistical Inference
-- Regression Models
-- Practical Machine Learning
+- Practical/Applied Machine Learning
 
 
 ## :telescope: Fields Explored;
