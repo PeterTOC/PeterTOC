@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Peter Boshe
-I am a :computer: **Junior Analyst** and an :sparkles:**R**:sparkles: fanatic.
+I am a :computer: **Data Analyst** and an :sparkles:**R**:sparkles: fanatic.
 
 ## :black_joker: My Tools of Trade include;
 - Descriptive Analysis
