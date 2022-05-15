@@ -5,7 +5,7 @@ I am a :computer: **Data Analyst** and an :sparkles:**R**:sparkles: fanatic.
 - Descriptive Analysis
 - Data Cleaning
 - Data Wrangling
-- Data Viz
+- Data Visualization
 - Task Automation
 - Bash Scripting
 - R programming
